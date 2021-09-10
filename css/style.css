@@ -1,0 +1,316 @@
+.{
+	padding:0;
+	margin:0;
+}
+body{
+	font-family:'roboto' ,sans-serif;
+}
+p{
+	line-height:20px;	
+}
+
+#slider {
+	background:url(../images/bg.jpg) no-repeat;
+	background-size:cover;
+	background-position:center center;
+}
+.overlay{
+	padding:0;
+	margin:0;
+	background-color:rgba(0, 0, 0, .3);
+}
+.container{
+	max-width:1170px;
+	margin:0 auto;
+	overflow:hidden;
+}
+
+.slider-top{
+	margin-top:30px;
+}
+.logo{
+	
+}
+.logo img{
+	width:20%;
+	float:left;
+	overflow:hidden;
+	
+}
+
+.menu{
+	
+	
+}
+.menu ul{
+	margin:0;
+	padding:0;
+}
+.menu ul li{
+	float:right;
+	display:inline-block;
+	
+}
+.menu ul li a{
+	text-decoration:none;
+	font-size:20px;
+	text-transform:uppercase;
+	padding:20px;
+	
+}
+.menu ul li a:hover{
+	background:#39ed1f;
+	color:#fff;
+	
+}
+.slider-content{
+	padding:200px 0px;
+	text-align:center;
+	color:#fff;
+}
+.slider-content h2{
+	font-size:45px;
+	margin-bottom:5px;
+	
+}
+.slider-content h1{
+	 font-size: 75px;
+    margin:0 auto;
+    border-top: 2px solid #fff;
+    border-bottom: 2px solid #fff;
+    border-left: 2px solid #fff;
+    border-right: 2px solid #fff;
+	width:500px;
+	padding:20px;
+	
+}
+
+.slider-content h1 span{
+	color:#87d37c;
+}
+.slider-content h3{
+	font-size:40px;
+	margin-top:5px;
+	
+}
+#about-us{}
+.about-content{
+	text-align:center;
+	color:#8d8c8c;
+}
+.about-top{
+	
+	
+}
+.about-top h2{
+	font-size:40px;
+	text-transform:uppercase;
+	
+}
+.about-top h2:hover{
+	color:#87d37c;
+}
+.about-top p{
+	font-size:15px;
+	width:500px;
+	margin: 0 auto;
+	margin-bottom:50px;
+	
+}
+.about{
+	max-width:23%;
+	float:left;
+	overflow:hidden;
+	margin-left:2%;
+}
+
+.about i{
+	
+	
+}
+.fa{
+	font-size:60px;
+	
+}
+.about h2{
+	font-size:20px;
+	text-transform:uppercase;
+}
+.about i:hover,
+.about h2:hover{
+	color:#87d37c;
+	
+}
+
+
+.about p{
+	font-size:15px;
+	width:300px;
+	margin: 0 auto;
+	margin-bottom:50px;
+}
+#services{
+	background-color:#f6f9f9;
+	
+}
+.service-top{
+	text-align:center;
+}
+.service-top h2{
+	font-size:40px;
+	text-transform:uppercase;
+}
+.service-top h2:hover{
+	color:#ec1ed6;
+
+}
+.service-top p{
+	font-size:15px;
+	max-width:500px;
+	margin:0 auto;
+	margin-bottom:50px;
+}
+.service-content{
+	
+	
+}
+.service{
+	max-width:23%;
+	padding-right:15px;
+	float:left;
+	margin-bottom:50px;
+}
+.service img{
+	width:100%;
+	
+}
+#contract{
+	
+}
+.contract-content{
+	text-align:center;
+}
+.contract-content{
+	
+}
+.contract-top{
+	
+}
+
+.contract-top h2{
+	font-size:40px;
+	text-transform:uppercase;	
+}
+.contract-top h2:hover{
+	color:#14f4f1;
+}
+.contract-top p{
+	font-size:15px;
+	max-width:600px;
+	margin:0 auto;
+	margin-bottom:50px;
+}
+.contract{
+	width:30%;
+	float:left;
+	margin-left:3%;
+	
+}
+.contract:hover{
+	color:#40d32b;
+}
+.contract i{
+	
+}
+.fa{
+	font-size:100px;
+}
+.contract h2{
+	font-size:30px;
+	text-transform:uppercase;
+}
+.contract p{
+	font-size:15px;
+	margin-bottom:50px;	
+	margin-left:10px;
+}
+.contract-form{
+	width:50%;
+	float:left;
+	margin-bottom:50px;
+}
+.contract-form input{
+	width:90%;
+	padding:10px;
+	margin-bottom:10px;
+		
+}
+.message{
+	width:50%;
+	float:right;
+}
+.message textarea{
+	width: 80%;
+    padding: 21px;
+	margin-bottom:5px;
+}
+
+.message input{
+	font-size: 20px;
+    padding: 4px;
+	text-transform:uppercase;
+	
+	
+}
+.message input:hover{
+	background:#87d37c;
+}
+
+#social-icon{
+	background:#000;
+	margin-bottom:50px;
+	
+}
+.icon{
+	color:#fff;
+	text-align:center;
+	padding:60px;
+}
+.icon i{
+	font-size:40px;
+	padding:20px;
+	border-radius:50%;
+	margin-bottom:5px;
+}
+
+.fa-facebook{
+	background:#3c599b;
+}
+.fa-google-plus{
+	background:#cd3c2a;
+}
+.fa-linkedin{
+	background:#007bb6;
+}
+.fa-twitter{
+	background:#5ea9dd;
+}
+.fa-skype{
+	background:#00aff0;
+}
+.fa-dribbble{
+	background:#03a651;
+}
+#footer{
+	text-align:center;
+	margin-bottom:50px;
+	background:#d9cccc;s
+}
+
+.footer{
+	
+}
+.footer p{
+	font-size:15px;
+}
+

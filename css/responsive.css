@@ -1,0 +1,122 @@
+@media screen and (max-width:768px){
+	
+	.menu ul li {
+	margin-top: 40px;
+	}
+	
+	.about {
+	max-width: 44%;
+	margin-left: 8%;
+	}
+	
+	.contract {
+	width: 47%;
+	}
+	
+	
+	.contract-form {
+	width: 100%;
+	float: left;
+	margin-bottom: 10px;
+	}
+	.message {
+	width: 100%;
+	margin-bottom: 10px;
+	}
+	.message textarea {
+	width: 87%;
+	padding: 21px;
+	margin-bottom: 20px;
+}
+	
+}
+@media screen and (max-width:640px) {
+	
+	.menu ul li{
+	margin-top:35px;
+	}
+	
+	.menu ul li a {
+	font-size: 20px;
+	padding: 10px;
+	}
+	.about {
+	max-width: 80%;
+	margin-left: 8%;
+	}
+	.about p {
+	width: 500px;
+	}
+	.service {
+	max-width: 48%;
+	}
+	
+}
+
+@media screen and (max-width:642px) {
+	
+	.menu ul li a {
+	
+	font-size: 18px;
+	padding: 15px;
+	}
+}
+
+@media screen and (max-width:568px) {
+	
+	.menu ul li a {
+	font-size: 17px;
+	padding: 10px;
+	}
+	
+}
+
+
+@media screen and (max-width:482px) {
+	
+	.menu ul li {
+	margin-top: 20px;
+	}
+	
+	.menu ul li a {
+	font-size: 10px;
+	padding: 5px;
+	}
+	.slider-content h2 {
+	font-size: 20px;
+	}
+	.slider-content h1 {
+	font-size: 35px;
+	width: 250px;
+	}
+	.slider-content h3 {
+	font-size: 18px;
+	margin-top: 5px;
+	}
+	.service {
+	max-width: 100%;
+	padding-right:0px;
+	text-align:center;
+	}
+	
+	.contract {
+	width: 95%;
+	}
+	
+	.message textarea {
+	width: 85%;
+	}
+	
+	.about p {
+	width: 90%;
+	}
+		
+}
+
+@media screen and (max-width:374px) {
+	
+	.about-top p {
+	width: 355px;
+	}
+	
+}
